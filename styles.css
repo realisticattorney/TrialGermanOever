@@ -1,5 +1,6 @@
 #image {
-    max-width: 50vw;
-    display: inline;
-    display: block;
+	max-width: 50vw;
+	display: block;
+	align-content: center;
+	margin: 0 auto;
 }
