@@ -4,13 +4,31 @@
 	align-content: center;
 	margin: 0 auto;
 }
-#img-caption {
-    text-align: center;
 
+#img-caption {
+	text-align: center;
 }
+
+#main {
+	max-width: 500px;
+	margin: 0 auto;
+	background: white;
+	padding: 50px;
+	opacity: 0.95;
+	border-radius: 25px;
+}
+
+#title {
+	text-align: center;
+}
+
+#tribute-info {
+	text-align: justify;
+}
+
 #background {
-    background-image: url(./enigma2.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    
+	background-image: url(./enigma2.jpg);
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-repeat: no-repeat;
 }
