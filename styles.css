@@ -1,8 +1,8 @@
 #image {
-	max-width: 25vw;
+	max-width: 75%;
 	display: block;
 	align-content: center;
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 #img-caption {
@@ -15,7 +15,7 @@
 	background: white;
 	padding: 50px;
 	opacity: 0.95;
-	border-radius: 25px;
+    border-radius: 25px;
 }
 
 #title {
@@ -30,5 +30,6 @@
 	background-image: url(./enigma2.jpg);
 	background-repeat: no-repeat;
 	background-position-x: center;
-	background-repeat: no-repeat;
+    background-size: cover;
+
 }
