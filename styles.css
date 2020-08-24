@@ -1,6 +1,16 @@
 #image {
-	max-width: 50vw;
+	max-width: 25vw;
 	display: block;
 	align-content: center;
 	margin: 0 auto;
+}
+#img-caption {
+    text-align: center;
+
+}
+#background {
+    background-image: url(./enigma2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
